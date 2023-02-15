@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_IFCExport.dll"</Assembly>
+		<AddInId>DFA97C55-3F57-4963-8007-B5D8ADB1292D</AddInId>
+		<FullClassName>RevitAPITraining_IFCExport.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>8.1 Экспорт в IFC</Text>
+	</AddIn>
+</RevitAddIns>
